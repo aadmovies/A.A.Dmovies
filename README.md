@@ -1,5 +1,5 @@
 # A.A.Dmovies
-#<div style="text-align:center;margin-top:40px;"><img src="ad.jpg"></div>
+<div style="text-align:center;margin-top:40px;"><img src="ad.jpg"></div>
 
 <div style="text-align:center;margin-top:40px;">
 <a style="padding-right: 20px;"href="home.html">Home</a>
