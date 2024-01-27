@@ -14,7 +14,7 @@
 <hr>
 <h1 style="font-size:50px;text-align:center;">Free Online Movies </h1>
 
-<img style="width: 65%;"src="image.jpg">
+file:///C:/Users/deepak77/OneDrive/Desktop/image.jpg
 <img style="width: 65%;"src="GAUmH4Ua4AACTMq.jpeg">
 <h1 style="font-size:50px;text-align:center;">12th fail Romantic clip </h1>
 <video src="video/12th fail clip.mp4" controls/>
